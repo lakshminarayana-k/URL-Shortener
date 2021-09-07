@@ -1,6 +1,6 @@
-# shortn
+# URL-Shortener
 
-A command line application written in python that lets you shorten url using bit.ly, j.mp, tiny.cc and more
+A simple url shortening command-line based application written in python using bit.ly, j.mp, tiny.cc and more
 
 [![Pip version][shield-pip]][info-pip]
 
@@ -23,8 +23,8 @@ pip install URL-Shortener
 ### Method 2 - Build from source
 
 ```bash
-$ git clone git@github.com:ishu3101/shortn.git
-$ cd shortn
+$ git clone  https://github.com/lakshminarayana-k/URL-Shortener.git
+$ cd URL-Shortener
 $ python setup.py install
 ```
 
