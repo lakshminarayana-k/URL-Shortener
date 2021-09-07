@@ -2,8 +2,6 @@
 
 A simple url shortening command-line based application written in python using bit.ly, j.mp, tiny.cc and more
 
-[![Pip version][shield-pip]][info-pip]
-
 
 ## Table of Contents
 
