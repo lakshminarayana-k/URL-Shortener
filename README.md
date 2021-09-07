@@ -3,21 +3,21 @@
 A command line application written in python that lets you shorten url using bit.ly, j.mp, tiny.cc and more
 
 [![Pip version][shield-pip]][info-pip]
-[![MIT licensed][shield-license]][info-license]
+
 
 ## Table of Contents
 
 * [Install](#install)
 * [Usage](#usage)
 * [Supported Services](#supported-services)
-* [License](#license)
+
 
 ## Install
 
 ### Method 1 - Using pip
 
 ```bash
-pip install shortn
+pip install URL-Shortener
 ```
 
 ### Method 2 - Build from source
@@ -74,11 +74,3 @@ $ shortn --help
 * v.gd
 * tiny.cc
  
-## License
-
-shortn is released under the MIT license. See [LICENSE](LICENSE) for details.
-
-[info-license]: LICENSE
-[info-pip]: https://pypi.python.org/pypi/shortn
-[shield-license]: https://img.shields.io/pypi/l/shortn.svg
-[shield-pip]: https://img.shields.io/pypi/v/shortn.svg
